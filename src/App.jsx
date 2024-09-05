@@ -6,6 +6,7 @@ import CardGrid from "./components/CardGrid"
 import ContactForm from "./components/ContactForm"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
+import CostBenefitCalculator from "./components/CostBenefitCalculator"
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <ChatbotComponent />
       <Landing />
       <CardGrid />
+      <CostBenefitCalculator />
       <ContactForm />
       <Contact />
       <Footer />
