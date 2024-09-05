@@ -14,7 +14,7 @@ const BikeSetuForm = () => {
             {/* Unbiased Buying Advice */}
             <div className="flex items-start space-x-4">
               <img
-                src="/images/unbiased-advice.png" // Replace with the actual image path
+                src="/assets/whybikesetu.png" // Replace with the actual image path
                 alt="Unbiased Buying Advice"
                 className="w-16 h-16"
               />
@@ -32,7 +32,7 @@ const BikeSetuForm = () => {
             {/* Lowest Price Guaranteed */}
             <div className="flex items-start space-x-4">
               <img
-                src="/images/best-deal.png" // Replace with the actual image path
+                src="/assets/whybikesetubd.png" // Replace with the actual image path
                 alt="Lowest Price Guaranteed"
                 className="w-16 h-16"
               />
@@ -50,7 +50,7 @@ const BikeSetuForm = () => {
             {/* Assistance in Finance */}
             <div className="flex items-start space-x-4">
               <img
-                src="/images/finance-assistance.png" // Replace with the actual image path
+                src="/assets/whybikesetuthree.png" // Replace with the actual image path
                 alt="Assistance in Finance"
                 className="w-16 h-16"
               />
